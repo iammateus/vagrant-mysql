@@ -1,1 +1,26 @@
-# vagrant-with-mysql
+# vagrant-mysql
+
+A MySQL vagrant machine with external connectivity to host machine.
+
+## Requeriments
+
+1. [Vagrant](https://www.vagrantup.com/).
+
+## Installation
+
+    $ vagrant up
+    
+## How to connect externally
+
+    $ mysql -h 127.0.0.1 -P 3306 -u {USER} -p 
+
+## MySQL users
+
+| User | Password |
+|--|--|
+| root| root |
+| mateus| mateus |
+
+## License
+
+[MIT](https://github.com/iammateus/vagrant-mysql/blob/main/LICENSE)
