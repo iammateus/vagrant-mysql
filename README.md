@@ -5,6 +5,7 @@ A MySQL vagrant machine with external connectivity to host machine.
 ## Requeriments
 
 1. [Vagrant](https://www.vagrantup.com/).
+2. [A provider](https://www.vagrantup.com/docs/providers).
 
 ## Installation
 
