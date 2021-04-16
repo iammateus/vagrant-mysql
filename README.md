@@ -17,10 +17,10 @@ A MySQL vagrant machine with external connectivity to host machine.
 
 ## MySQL users
 
-| User | Password |
+| User | Password | Connectivity |
 |--|--|
-| root| root |
-| mateus| mateus |
+| root| root | only guest machine |
+| mateus| mateus | guest and host |
 
 ## License
 
