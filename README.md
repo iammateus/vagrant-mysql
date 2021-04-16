@@ -18,7 +18,7 @@ A MySQL vagrant machine with external connectivity to host machine.
 ## MySQL users
 
 | User | Password | Connectivity |
-|--|--|
+|--|--|--|
 | root| root | only guest machine |
 | mateus| mateus | guest and host |
 
