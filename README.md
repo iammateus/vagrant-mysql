@@ -1,6 +1,6 @@
 # vagrant-mysql
 
-A MySQL vagrant machine with external connectivity to host machine.
+A MySQL vagrant machine with external connectivity to the host machine.
 
 ## Requeriments
 
